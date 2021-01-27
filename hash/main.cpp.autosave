@@ -1,9 +1,0 @@
-#include "elemento.h"
-#include <QString>
-
-
-
-int main(){
-    
-    
-}
